@@ -766,6 +766,24 @@
 						}
 					],
 					"updated": "8-7-2021"
+				},
+				{
+					"prettyName": "Import M3U Playlists",
+					"icon": "fa-lightbulb-o",
+					"name": "m3u_importer",
+					"version": "0.0.1",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/m3u_importer/m3u_importer.zip",
+					"license": "ISC",
+					"description": "Import .m3u playlists into Volumio",
+					"details": "This plugin imports m3u or m3u8 playlists into the Volumio. Both simple and extended m3u files are supported.",
+					"author": "Skip Hansen",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "9-10-2021"
 				}
 			]
 		},
