@@ -771,7 +771,7 @@
 					"prettyName": "Import M3U Playlists",
 					"icon": "fa-lightbulb-o",
 					"name": "m3u_importer",
-					"version": "0.0.1",
+					"version": "0.0.2",
 					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/m3u_importer/m3u_importer.zip",
 					"license": "ISC",
 					"description": "Import .m3u playlists into Volumio",
@@ -783,7 +783,7 @@
 							"thumb": ""
 						}
 					],
-					"updated": "9-10-2021"
+					"updated": "26-11-2021"
 				}
 			]
 		},
