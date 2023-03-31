@@ -35,7 +35,10 @@ plugin.
 ![](https://github.com/skiphansen/volumio-plugins/blob/public/assets/settings.png)
 
 Fill in the **full path** to the folder containing the playlists you wish to
-import.  Alternately enter the **full path** to a specific playlist.
+import.  Note: playlists must have an extension of **.m3u** or **.m3u8**, files
+with other extensions are siliently ignored.
+
+Alternately enter the **full path** to a specific playlist.
 
 The path is as seen from the view point of the music library hence it **MUST**
 start with INTERNAL, NAS, or USB.  
