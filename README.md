@@ -7,8 +7,7 @@ Both simple and extended m3u files are supported.
 
 ## Installation
 
-Until this plugin is made available from the Volumio UI it must be installed 
-manually using the following procedure.
+This plugin must be installed manually using the following procedure.
 
 1. Enable SSH following the instructions found [here](https://volumio.github.io/docs/User_Manual/SSH.html).
 
